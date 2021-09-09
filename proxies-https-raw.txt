@@ -72,7 +72,5 @@ ca10.flashvpn.li:443
 ca10.freevpn.zone:443
 gb.flashvpn.li:443
 gb.freevpn.zone:443
-nl10.flashvpn.li:443
 nl10.freevpn.zone:443
-us10.flashvpn.li:443
 us10.freevpn.zone:443
