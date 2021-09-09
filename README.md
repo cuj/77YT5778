@@ -5,13 +5,25 @@ Q: How 2 use?
 
 A: See usage of getting proxies:
 
-GET ALL IP PR0X!ES: `curl -O https://raw.githubusercontent.com/cuj/77YT577/main/proxies-all-raw.txt`
+GET ALL IP PR0X!ES: `curl -O https://raw.githubusercontent.com/cuj/77YT5778/main/proxies-all-raw.txt`
 
-GET ALL HTTPS IP PR0X!ES: `curl -O https://raw.githubusercontent.com/cuj/77YT577/main/proxies-https-raw.txt`
+GET ALL HTTPS IP PR0X!ES: `curl -O https://raw.githubusercontent.com/cuj/77YT5778/main/proxies-https-raw.txt`
 
-GET ALL S0CK$4 IP PR0X!ES: `curl -O https://raw.githubusercontent.com/cuj/77YT577/main/proxies-socks4-raw.txt`
+GET ALL S0CK$4 IP PR0X!ES: `curl -O https://raw.githubusercontent.com/cuj/77YT5778/main/proxies-socks4-raw.txt`
 
-GET ALL S0CK$5 IP PR0X!ES: `curl -O https://raw.githubusercontent.com/cuj/77YT577/main/proxies-socks5-raw.txt`
+GET ALL S0CK$5 IP PR0X!ES: `curl -O https://raw.githubusercontent.com/cuj/77YT5778/main/proxies-socks5-raw.txt`
+
+GET MINIFIED JSON 1: `curl -O https://raw.githubusercontent.com/cuj/77YT5778/main/proxies-minified-json-1.json`
+
+GET MINIFIED JSON 2: `curl -O https://raw.githubusercontent.com/cuj/77YT5778/main/proxies-minified-json-2.json`
+
+GET MINIFIED JSON 3: `curl -O https://raw.githubusercontent.com/cuj/77YT5778/main/proxies-minified-json-3.json`
+
+GET PRETTY JSON 1: `curl -O https://raw.githubusercontent.com/cuj/77YT5778/main/proxies-pretty-json-1.json`
+
+GET PRETTY JSON 2: `curl -O https://raw.githubusercontent.com/cuj/77YT5778/main/proxies-pretty-json-2.json`
+
+GET PRETTY JSON 3: `curl -O https://raw.githubusercontent.com/cuj/77YT5778/main/proxies-pretty-json-3.json`
 
 ---
 Q: and What is the use?!
@@ -20,4 +32,10 @@ A: It's used to avoid rate limiting or evade bans, or btureforcing, *or even DDo
 
 ---
 Q: Why 3 json files but one proxies raw txt?
+
 A: I could not find a way to merge all three json into one json, however I can get all proxies from 3 json files and merge it into one plain text.
+
+---
+Q: Real API?
+
+A: Sorry, I cannot provide the real APIs, but the minified json files are straight from the APIs and if the APIs change then the minified json will also change in under a second.
